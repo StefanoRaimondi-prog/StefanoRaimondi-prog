@@ -20,22 +20,19 @@ Mi appassiona la tecnologia e sono sempre alla ricerca di nuove sfide per miglio
 
 Qui di seguito alcuni progetti a cui ho lavorato o che sto sviluppando:
 
-- **[Nome Progetto 1](#)**  
-  Breve descrizione del progetto e delle tecnologie utilizzate.
-  
+- **[Cv Web]([#](https://github.com/StefanoRaimondi-prog/Progetto-CV-Web))**  
+La riproduzione lato web del mio CV  
 - **[Nome Progetto 2](#)**  
-  Breve descrizione del progetto e del mio ruolo.
-
-*(Aggiungi ulteriori progetti man mano che il tuo portfolio cresce!)*
-
+  Attualmente in sviluppo nel corso di formazione...
+  
 ## Obiettivi e Interessi
 
 Sono sempre alla ricerca di nuove opportunità per imparare e collaborare a progetti stimolanti. Se hai un'idea o un progetto interessante, sentiti libero di contattarmi!
 
 ## Contatti
 
-- **Email:** [stefanoraimondi.pl@gmail.com](mailto:tuoindirizzo@example.com)
-- **LinkedIn:** [www.linkedin.com/in/stefano-raimondi-prog](#)
+- **Email:** [stefanoraimondi.pl@gmail.com](mailto:stefanoraimondi.pl@gmail.com)
+- **LinkedIn:** [stefano raimondi](www.linkedin.com/in/stefano-raimondi-prog)
 
 ---
 
