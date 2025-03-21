@@ -20,8 +20,8 @@ Mi appassiona la tecnologia e sono sempre alla ricerca di nuove sfide per miglio
 
 Qui di seguito alcuni progetti a cui ho lavorato o che sto sviluppando:
 
-- **[Cv Web]([#](https://github.com/StefanoRaimondi-prog/Progetto-CV-Web))**  
-La riproduzione lato web del mio CV  
+- **[CV Web](https://github.com/StefanoRaimondi-prog/Progetto-CV-Web)**  
+  Una versione digitale e responsive del mio curriculum vitae, sviluppata con HTML, CSS e TypeScript.
 - **[Nome Progetto 2](#)**  
   Attualmente in sviluppo nel corso di formazione...
   
@@ -31,8 +31,8 @@ Sono sempre alla ricerca di nuove opportunità per imparare e collaborare a prog
 
 ## Contatti
 
-- **Email:** [stefanoraimondi.pl@gmail.com](mailto:stefanoraimondi.pl@gmail.com)
-- **LinkedIn:** [stefano raimondi](www.linkedin.com/in/stefano-raimondi-prog)
+- **Email:** [stefanoraimondi.pl@gmail.com](mailto:stefanoraimondi.pl@gmail.com)  
+- **LinkedIn:** [Stefano Raimondi](https://www.linkedin.com/in/stefano-raimondi-prog)
 
 ---
 
