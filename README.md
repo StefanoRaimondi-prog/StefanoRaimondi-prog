@@ -1,6 +1,6 @@
 # Ciao, sono Stefano Raimondi!
-
-Sono un **junior programmer** con una solida formazione in programmazione orientata agli oggetti. Ho studiato:
+![Descrizione dell'immagine](https://media.licdn.com/dms/image/v2/D4D16AQH17SKGsTj1qg/profile-displaybackgroundimage-shrink_350_1400/B4DZW6XsOIHYAY-/0/1742588529312?e=1747872000&v=beta&t=B2MCyVXEeHz3F7O4_MidqM6CkgJN6MtT39N_53zxMMM)
+Sono alla ricerca di una posizione come **junior programmer** con una solida formazione in programmazione orientata agli oggetti. Ho studiato:
 - **Java**: con un focus su Spring e Angular
 - **SQL**: utilizzando JDBC per interfacciarmi con database relazionali
 - **Python**: focalizzato sull'analisi dei dati
@@ -34,9 +34,8 @@ Sono sempre alla ricerca di nuove opportunità per imparare e collaborare a prog
 
 ## Contatti
 
-- **Email:** [tuoindirizzo@example.com](mailto:tuoindirizzo@example.com)
-- **LinkedIn:** [Profilo LinkedIn](#)
-- **GitHub:** [Il mio profilo GitHub](https://github.com/tuo-username)
+- **Email:** [stefanoraimondi.pl@gmail.com](mailto:tuoindirizzo@example.com)
+- **LinkedIn:** [www.linkedin.com/in/stefano-raimondi-prog](#)
 
 ---
 
