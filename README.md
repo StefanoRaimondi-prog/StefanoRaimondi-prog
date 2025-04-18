@@ -22,8 +22,6 @@ Qui di seguito alcuni progetti a cui ho lavorato o che sto sviluppando:
 
 - **[CV Web](https://github.com/StefanoRaimondi-prog/Progetto-CV-Web)**  
   Una versione digitale e responsive del mio curriculum vitae, sviluppata con HTML, CSS e TypeScript.
-- **[Nome Progetto 2](#)**  
-  Attualmente in sviluppo nel corso di formazione...
   
 ## Obiettivi e Interessi
 
