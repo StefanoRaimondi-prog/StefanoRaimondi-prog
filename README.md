@@ -1,4 +1,4 @@
-
+![Banner](25498d9e-0a9e-4577-891f-1c9d9d807342.jpg)
 
 Esperienze
 Durante i miei percorsi formativi e progetti personali, ho approfondito diversi ambiti dello sviluppo software:
