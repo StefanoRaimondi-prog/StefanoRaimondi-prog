@@ -64,7 +64,7 @@ Sono sempre alla ricerca di nuove opportunità per imparare e collaborare a prog
 CONTATTI
 
 E-mail: stefanoraimondi.pl@gmail.com
-LinkedIn: Stefano Raimondi
+LinkedIn: https://www.linkedin.com/in/stefano-raimondi-prog/
 
 ---
 
