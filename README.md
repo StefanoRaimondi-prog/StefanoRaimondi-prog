@@ -1,4 +1,4 @@
-![Banner](img/25498d9e-0a9e-4577-891f-1c9d9d807342.jpg)
+![Banner](25498d9e-0a9e-4577-891f-1c9d9d807342.jpg)
 
 # 👋 Ciao, sono Stefano Raimondi
 
