@@ -1,3 +1,5 @@
+![Banner](https://www.raicultura.it/cropgd/900x520/dl/img/2020/02/26/1582717587391_technology-1283624_1920.jpg)
+
 Esperienze
 Durante i miei percorsi formativi e progetti personali, ho approfondito diversi ambiti dello sviluppo software:
 
