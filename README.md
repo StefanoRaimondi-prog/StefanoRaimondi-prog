@@ -1,72 +1,74 @@
-![Banner](25498d9e-0a9e-4577-891f-1c9d9d807342.jpg)
+![Banner](img/25498d9e-0a9e-4577-891f-1c9d9d807342.jpg)
 
-ESPERIENZE
+# 👋 Ciao, sono Stefano Raimondi
 
-Durante i miei percorsi formativi e progetti personali, ho approfondito diversi ambiti dello sviluppo software:
+🎓 Sviluppatore appassionato di tecnologia, con solide basi in Java, Python e SQL.  
+🎯 Sempre alla ricerca di nuove sfide per migliorarmi e contribuire a progetti innovativi.
 
-Java: con un focus su Spring e Angular per la creazione di web application modulari e scalabili.
+---
 
-SQL: utilizzando JDBC per interfacciarmi con database relazionali e ottimizzare query complesse. Esperienza nella progettazione di database, uso di viste, procedure e trigger.
+## 🧠 Esperienze
 
-Python: focalizzato sull'analisi dei dati e la manipolazione efficiente di dataset complessi grazie a NumPy, Pandas, Matplotlib e Seaborn.
+Durante il mio percorso formativo e i progetti personali, ho approfondito diverse aree dello sviluppo software:
 
-Ho svolto esercitazioni di data analysis simulando dati reali (come affluenza in un parco), con trend e pattern temporali, costruendo pipeline di elaborazione e visualizzazione dei risultati.
+- **Java**: sviluppo web con focus su **Spring** e **Angular** per creare applicazioni modulari e scalabili.
+- **SQL**: utilizzo di **JDBC** per interfacciarsi con database relazionali; esperienza con **viste**, **procedure** e **trigger**.
+- **Python**: analisi dati con **NumPy**, **Pandas**, **Matplotlib**, **Seaborn**; progetti strutturati e simulazioni interattive.
+- Ho creato pipeline per simulare dati reali (es. affluenza in un parco), analizzandoli tramite grafici e resampling.
+- Applicazione di concetti avanzati di OOP: classi astratte, ereditarietà, strutture modulari anche in ambito videoludico.
 
-Ho imparato a strutturare progetti complessi in più file, utilizzare classi, OOP avanzata, ereditarietà e astrazione, anche in ambito gaming e simulazione.
+---
 
-Mi appassiona la tecnologia e sono sempre alla ricerca di nuove sfide per migliorare le mie competenze e contribuire a progetti innovativi.
+## 🛠️ Competenze Tecniche
 
-Competenze Tecniche
-Linguaggi di programmazione:
-Java, Python, SQL
+### 🧾 Linguaggi
+`Java`, `Python`, `SQL`
 
-Framework e librerie:
+### ⚙️ Framework & Librerie
+- **Java**: Spring, Angular  
+- **Python**: NumPy, Pandas, Matplotlib, Seaborn  
+- **SQL**: Progettazione DB, JDBC, viste, trigger, procedure
 
-Java: Spring, Angular
+### 💡 Altri concetti chiave
+- Programmazione Orientata agli Oggetti (OOP)  
+- Analisi e visualizzazione dati  
+- Gestione di progetti multi-file  
+- Script automatizzati per analisi/reporting
 
-Python: NumPy, Pandas, Matplotlib, Seaborn
+---
 
-SQL: Progettazione di database relazionali, JDBC, viste, trigger, procedure
+## 📂 Progetti
 
-Altri concetti chiave:
+Ecco alcuni progetti a cui ho lavorato:
 
-Programmazione Orientata agli Oggetti (OOP)
+- 🔗 [**CV Web**](https://github.com/StefanoRaimondi-prog/Progetto-CV-Web)  
+  Versione digitale e responsive del mio CV, sviluppata con HTML, CSS e TypeScript.
 
-Analisi e visualizzazione dati
+- 🔗 [**Analisi Dati Pokémon**](https://github.com/StefanoRaimondi-prog/Progetto-DB-Pokemon)  
+  Analisi su dataset relazionali e visualizzazione con Matplotlib e Pandas.
 
-Strutturazione di progetti multi-file
+- 🔗 [**Gioco Souls-like in Python**](https://github.com/StefanoRaimondi-prog/Progetto-DarkSouls)  
+  Videogioco testuale ispirato a Dark Souls, con combattimenti, NPC e classi astratte.
 
-Creazione di script automatizzati per analisi e reporting
+- 🔗 [**Simulazione Fifa in Python**](https://github.com/StefanoRaimondi-prog/Esercitazioni_Accademy-Corso-Pyton-/tree/main/14_04_2025/Fifa.py)  
+  Videogioco testuale ispirato a FIFA, con squadre, gol randomici e gestione tramite classi.
 
-PROGETTI
+---
 
-Qui di seguito alcuni progetti a cui ho lavorato o che sto sviluppando:
+## 🎯 Obiettivi e Interessi
 
-CV Web
-https://github.com/StefanoRaimondi-prog/Progetto-CV-Web
-Una versione digitale e responsive del mio curriculum vitae, sviluppata con HTML, CSS e TypeScript.
+Sono motivato da una forte curiosità e voglia di imparare.  
+Amo lavorare su progetti che uniscono **creatività**, **logica** e **impatto reale**.  
+Se hai un progetto interessante, **contattami**: potremmo costruire qualcosa di grande insieme.
 
-Analisi Dati Pokémon
-https://github.com/StefanoRaimondi-prog/Progetto-DB-Pokemon
-Progetto di analisi su dataset relazionali con visualizzazione tramite Matplotlib e Pandas.
+---
 
-Gioco Souls-like in Python
-https://github.com/StefanoRaimondi-prog/Progetto-DarkSouls
-Videogioco testuale basato su combattimenti, dialoghi e classi astratte, ispirato a Dark Souls.
+## 📬 Contatti
 
-Gioco Simulazione Fifa in Python 
-https://github.com/StefanoRaimondi-prog/Esercitazioni_Accademy-Corso-Pyton-/tree/main/14_04_2025/Fifa.py
-Videogioco testuale ispirato a Fifa 
-
-Obiettivi e interessi
-Sono sempre alla ricerca di nuove opportunità per imparare e collaborare a progetti stimolanti. Se hai un'idea o un progetto interessante, sentiti libero di contattarmi!
-
-CONTATTI
-
-E-mail: stefanoraimondi.pl@gmail.com
-LinkedIn: https://www.linkedin.com/in/stefano-raimondi-prog/
+[![Email](https://img.shields.io/badge/E--mail-stefanoraimondi.pl@gmail.com-red?style=flat-square&logo=gmail)](mailto:stefanoraimondi.pl@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Stefano_Raimondi-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/stefano-raimondi-prog/)
 
 ---
 
 Grazie per aver visitato il mio profilo!  
-Continua a seguirmi per aggiornamenti sui miei progetti e nuove esperienze nel mondo dello sviluppo software.
+🌟 Continua a seguirmi per aggiornamenti sui miei progetti e sulla mia crescita come sviluppatore.
