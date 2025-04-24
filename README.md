@@ -1,6 +1,7 @@
 ![Banner](25498d9e-0a9e-4577-891f-1c9d9d807342.jpg)
 
-Esperienze
+ESPERIENZE
+
 Durante i miei percorsi formativi e progetti personali, ho approfondito diversi ambiti dello sviluppo software:
 
 Java: con un focus su Spring e Angular per la creazione di web application modulari e scalabili.
@@ -37,7 +38,8 @@ Strutturazione di progetti multi-file
 
 Creazione di script automatizzati per analisi e reporting
 
-Progetti
+PROGETTI
+
 Qui di seguito alcuni progetti a cui ho lavorato o che sto sviluppando:
 
 CV Web
@@ -59,7 +61,8 @@ Videogioco testuale ispirato a Fifa
 Obiettivi e interessi
 Sono sempre alla ricerca di nuove opportunità per imparare e collaborare a progetti stimolanti. Se hai un'idea o un progetto interessante, sentiti libero di contattarmi!
 
-Contatti
+CONTATTI
+
 E-mail: stefanoraimondi.pl@gmail.com
 LinkedIn: Stefano Raimondi
 
