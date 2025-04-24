@@ -1,36 +1,65 @@
-# Ciao, sono Stefano Raimondi!
-![Descrizione dell'immagine](https://media.licdn.com/dms/image/v2/D4D16AQH17SKGsTj1qg/profile-displaybackgroundimage-shrink_350_1400/B4DZW6XsOIHYAY-/0/1742588529312?e=1747872000&v=beta&t=B2MCyVXEeHz3F7O4_MidqM6CkgJN6MtT39N_53zxMMM)
-Sono alla ricerca di una posizione come **junior programmer** con una solida formazione in programmazione orientata agli oggetti. Ho studiato:
-- **Java**: con un focus su Spring e Angular
-- **SQL**: utilizzando JDBC per interfacciarmi con database relazionali
-- **Python**: focalizzato sull'analisi dei dati
+Esperienze
+Durante i miei percorsi formativi e progetti personali, ho approfondito diversi ambiti dello sviluppo software:
+
+Java: con un focus su Spring e Angular per la creazione di web application modulari e scalabili.
+
+SQL: utilizzando JDBC per interfacciarmi con database relazionali e ottimizzare query complesse. Esperienza nella progettazione di database, uso di viste, procedure e trigger.
+
+Python: focalizzato sull'analisi dei dati e la manipolazione efficiente di dataset complessi grazie a NumPy, Pandas, Matplotlib e Seaborn.
+
+Ho svolto esercitazioni di data analysis simulando dati reali (come affluenza in un parco), con trend e pattern temporali, costruendo pipeline di elaborazione e visualizzazione dei risultati.
+
+Ho imparato a strutturare progetti complessi in più file, utilizzare classi, OOP avanzata, ereditarietà e astrazione, anche in ambito gaming e simulazione.
 
 Mi appassiona la tecnologia e sono sempre alla ricerca di nuove sfide per migliorare le mie competenze e contribuire a progetti innovativi.
 
-## Competenze Tecniche
+Competenze Tecniche
+Linguaggi di programmazione:
+Java, Python, SQL
 
-- **Linguaggi di Programmazione:** Java, Python, SQL
-- **Framework & Librerie:**
-  - **Java:** Spring, Angular
-  - **Python:** Librerie per l'analisi dei dati (come Pandas, NumPy, etc.)
-- **Database & SQL:** Esperienza con JDBC e database relazionali
-- **Principi OOP:** Forte attenzione alla programmazione orientata agli oggetti
+Framework e librerie:
 
-## Progetti
+Java: Spring, Angular
 
+Python: NumPy, Pandas, Matplotlib, Seaborn
+
+SQL: Progettazione di database relazionali, JDBC, viste, trigger, procedure
+
+Altri concetti chiave:
+
+Programmazione Orientata agli Oggetti (OOP)
+
+Analisi e visualizzazione dati
+
+Strutturazione di progetti multi-file
+
+Creazione di script automatizzati per analisi e reporting
+
+Progetti
 Qui di seguito alcuni progetti a cui ho lavorato o che sto sviluppando:
 
-- **[CV Web](https://github.com/StefanoRaimondi-prog/Progetto-CV-Web)**  
-  Una versione digitale e responsive del mio curriculum vitae, sviluppata con HTML, CSS e TypeScript.
-  
-## Obiettivi e Interessi
+CV Web
+https://github.com/StefanoRaimondi-prog/Progetto-CV-Web
+Una versione digitale e responsive del mio curriculum vitae, sviluppata con HTML, CSS e TypeScript.
 
+Analisi Dati Pokémon
+https://github.com/StefanoRaimondi-prog/Progetto-DB-Pokemon
+Progetto di analisi su dataset relazionali con visualizzazione tramite Matplotlib e Pandas.
+
+Gioco Souls-like in Python
+https://github.com/StefanoRaimondi-prog/Progetto-DarkSouls
+Videogioco testuale basato su combattimenti, dialoghi e classi astratte, ispirato a Dark Souls.
+
+Gioco Simulazione Fifa in Python 
+https://github.com/StefanoRaimondi-prog/Esercitazioni_Accademy-Corso-Pyton-/tree/main/14_04_2025/Fifa.py
+Videogioco testuale ispirato a Fifa 
+
+Obiettivi e interessi
 Sono sempre alla ricerca di nuove opportunità per imparare e collaborare a progetti stimolanti. Se hai un'idea o un progetto interessante, sentiti libero di contattarmi!
 
-## Contatti
-
-- **Email:** [stefanoraimondi.pl@gmail.com](mailto:stefanoraimondi.pl@gmail.com)  
-- **LinkedIn:** [Stefano Raimondi](https://www.linkedin.com/in/stefano-raimondi-prog)
+Contatti
+E-mail: stefanoraimondi.pl@gmail.com
+LinkedIn: Stefano Raimondi
 
 ---
 
